@@ -11,4 +11,8 @@ body {
 /* Common */
 
 
-/* Debug */
+main .banner .banner_background {
+    /* background-image: url("../img/jumbo-bg.png"); */
+    /* background-size: fill; */
+    background-position-x: center;
+}
