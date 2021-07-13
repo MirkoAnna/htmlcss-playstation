@@ -8,6 +8,13 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-main .banner .banner_background {
+main .ms_banner_background {
+    background-position-x: center;
+    background-size: cover;
+}
+
+#it-takes-two #ms_background {
+    background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
+    background-size: cover;
     background-position-x: center;
 }
